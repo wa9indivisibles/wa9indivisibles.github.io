@@ -8,4 +8,4 @@ layout: calendar
 ---
 
 ###  For details about our upcoming events, please 
-RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)
+###  RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)

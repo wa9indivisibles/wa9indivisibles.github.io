@@ -7,4 +7,4 @@ embed-code: <iframe src="https://calendar.google.com/calendar/embed?title=WA%209
 layout: calendar
 ---
 
-# For details about our upcoming events, please RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)
+### # For details about our upcoming events, please RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)

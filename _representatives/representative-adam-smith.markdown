@@ -1,6 +1,6 @@
 ---
 title: Representative Adam Smith
-date: 2017-04-14 17:37:00 -07:00
+date: 2017-04-15 10:45:00 -07:00
 position: 3
 phone-numbers:
   Renton WA: "(425)793-4180"

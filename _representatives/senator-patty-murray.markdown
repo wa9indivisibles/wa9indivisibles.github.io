@@ -1,6 +1,6 @@
 ---
 title: Senator Patty Murray
-date: 2017-04-14 17:43:00 -07:00
+date: 2017-04-15 10:15:00 -07:00
 position: 1
 phone-numbers:
   Washington DC: "(202) 224-2621"

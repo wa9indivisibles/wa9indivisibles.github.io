@@ -2,7 +2,7 @@
 title: WA 9 Indivisibles Meetings well-attended
 date: 2017-02-06 13:25:00 -08:00
 is featured: true
-main-image: "/uploads/indivisiblesf-photo1.jpg"
+main-image: "/uploads/workingSession.jpg"
 layout: media-item
 ---
 

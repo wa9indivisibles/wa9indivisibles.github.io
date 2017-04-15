@@ -1,5 +1,5 @@
 ---
-title: Rep. Eric Pettigrew, District 37
+title: Rep. Eric Pettigrew, Leg.Dist 37
 date: 2017-04-14 18:45:00 -07:00
 phone-numbers:
   Olympia: "(360) 786-7838"

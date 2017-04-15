@@ -7,4 +7,4 @@ embed-code: <iframe src="https://calendar.google.com/calendar/embed?height=600&a
 layout: calendar
 ---
 
-none
+# For details about our upcoming events, please RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)

@@ -1,6 +1,7 @@
 ---
 title: Senator Patty Murray
 date: 2017-04-14 17:43:00 -07:00
+position: 1
 phone-numbers:
   Washington DC: "(202) 224-2621"
   Washington DC Toll Free: "(866) 481-9186"

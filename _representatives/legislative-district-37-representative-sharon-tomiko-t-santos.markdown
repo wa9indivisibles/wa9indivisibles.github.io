@@ -7,4 +7,4 @@ phone-numbers:
 website: http://housedemocrats.wa.gov/legislators/Sharon-Tomiko-Santos/
 ---
 
-Legislative District 37
+*Legislative District 37*

@@ -9,3 +9,5 @@ layout: calendar
 
 ###  For details about our upcoming events check out the calendar below. 
 Please RSVP at [Meetup.com](https://www.meetup.com/Washington-District-9-Indivisibles/)
+
+RSVP (optional) through the Google calendar via [info @ wa9indivisibles.org](mailto:info@wa9indivisibles.org), and/or via [MeetUp.com](https://www.meetup.com/Washington-District-9-Indivisibles/)

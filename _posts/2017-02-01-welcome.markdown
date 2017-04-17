@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: 2017-02-01 15:50:00 -08:00
-is featured: false
+is featured: true
 main-image: "/uploads/columbiaCity.jpg"
 layout: post
 ---

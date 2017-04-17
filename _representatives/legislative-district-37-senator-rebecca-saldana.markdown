@@ -1,7 +1,5 @@
 ---
-title: |-
-  Legislative District 37
-  Senator Rebecca Saldaña
+title: "Legislative District 37                    \nSenator Rebecca Saldaña"
 date: 2017-04-15 11:15:00 -07:00
 position: 5
 phone-numbers:

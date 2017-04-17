@@ -1,5 +1,5 @@
 ---
-title: "Legislative District 37                    \nSenator Rebecca Saldaña"
+title: Senator Rebecca Saldaña
 date: 2017-04-15 11:15:00 -07:00
 position: 5
 phone-numbers:
@@ -7,3 +7,4 @@ phone-numbers:
 website: http://sdc.wastateleg.org/saldana/
 ---
 
+Legislative District 37

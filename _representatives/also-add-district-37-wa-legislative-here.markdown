@@ -1,5 +1,7 @@
 ---
-title: Representative Eric Pettigrew
+title: |-
+  Legislative District 37
+  Representative Eric Pettigrew
 date: 2017-04-15 11:30:00 -07:00
 position: 6
 phone-numbers:
@@ -7,4 +9,3 @@ phone-numbers:
 website: http://housedemocrats.wa.gov/legislators/Eric-Pettigrew/
 ---
 
-Legislative District 37

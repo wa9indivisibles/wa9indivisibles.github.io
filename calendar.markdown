@@ -7,7 +7,6 @@ embed-code: <iframe src="https://calendar.google.com/calendar/embed?title=WA%209
 layout: calendar
 ---
 
-###  For details about our upcoming events check out the calendar below. 
+###  For details about our upcoming events, check out the Google calendar below. 
 
-RSVP (optional) through the Google calendar via the 
-[Contact Us](mailto:info@wa9indivisibles.org) button to the right of the calendar, and/or via [MeetUp.com](https://www.meetup.com/Washington-District-9-Indivisibles/)
+RSVP (optional) via the [Contact Us](mailto:info@wa9indivisibles.org) button to the right of the calendar, and/or via [MeetUp.com](https://www.meetup.com/Washington-District-9-Indivisibles/)

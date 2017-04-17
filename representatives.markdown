@@ -4,5 +4,3 @@ date: 2017-04-14 18:46:00 -07:00
 ---
 
 ### Congressional Representatives' and State Legislators' contact information is below.  
-
-`Also you can link to Congressional District Maps and the Washington State Legislature.`

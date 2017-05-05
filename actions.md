@@ -5,4 +5,4 @@ main-image:
 layout: actions
 ---
 
-https://www.facebook.com/events/190314931474554/
+[Challenging Injustice Through the Courts with Bob Ferguson](https://www.facebook.com/events/190314931474554/)

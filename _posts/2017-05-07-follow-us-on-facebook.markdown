@@ -1,6 +1,7 @@
 ---
 title: Follow us on FaceBook
 date: 2017-05-07 16:23:00 -07:00
+is featured: true
 ---
 
 

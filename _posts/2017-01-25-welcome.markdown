@@ -1,6 +1,14 @@
 ---
 title: Welcome
 date: 2017-01-25 15:50:00 -08:00
+categories:
+- indivisible
+tags:
+- indivisible
+- '98118'
+- columbia city
+- district 9
+- washington
 is featured: true
 main-image: "/uploads/columbiaCity.jpg"
 layout: post

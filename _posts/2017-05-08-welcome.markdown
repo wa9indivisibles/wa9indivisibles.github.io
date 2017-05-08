@@ -11,7 +11,7 @@ tags:
 - wa9 indivisibles
 - wa 9 indivisibles
 is featured: true
-main-image: "/uploads/logoWider.png"
+main-image: "/uploads/wa9logoWide.png"
 ---
 
 Welcome to the WA District 9 Indivisibles! We are among numerous groups in WA State, and the USA, that aim to resist the Trump Administration's policies in accordance with the Indivisible Guide. We represent Washingtonians from Congressional District 9, a narrow area running from Tacoma in the south to Bellevue and Seattle in the north.  

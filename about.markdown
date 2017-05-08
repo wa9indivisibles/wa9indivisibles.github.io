@@ -1,6 +1,6 @@
 ---
 title: About
 date: 2017-05-08 10:18:00 -07:00
-layout: actions
+layout: becomeAMember
 ---
 

@@ -11,8 +11,10 @@ tags:
 - wa9 indivisibles
 - wa 9 indivisibles
 is featured: true
+main-image: "/uploads/district9Map.JPG"
 ---
 
+![logoWider.png](/uploads/logoWider.png)
 Welcome to the WA District 9 Indivisibles! We are among numerous groups in WA State, and the USA, that aim to resist the Trump Administration's policies in accordance with the Indivisible Guide. We represent Washingtonians from Congressional District 9, a narrow area running from Tacoma in the south to Bellevue and Seattle in the north.  
 
 While our local geographic focus is the Postal Code 98118, all are welcome whether you live, work, or just pass through the Columbia City, Hillman City, Seward Park, Rainier Beach or other nearby neighborhoods.

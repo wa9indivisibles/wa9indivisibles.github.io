@@ -10,6 +10,7 @@ tags:
 - columbia city
 - progressive
 - wa9 indivisibles
+- wa 9 indivisibles
 is featured: true
 ---
 

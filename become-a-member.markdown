@@ -42,3 +42,5 @@ Members of our Indivisible Guide chapter are defined by our action and find soli
 Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and non-citizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **All are welcome.**
+
+**[Click here](http://wa9indivisibles.us15.list-manage.com/unsubscribe?u=07d688cbd615e7e276dad51c6&id=f40e396265)** to unsubscribe from our e-mail list.

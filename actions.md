@@ -1,7 +1,7 @@
 ---
 title: Take Action
 position: 1
-main-image: 
+main-image: "/uploads/landmarkDistrict.jpg"
 layout: actions
 ---
 

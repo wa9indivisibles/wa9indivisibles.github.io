@@ -7,5 +7,5 @@ date: 2017-05-07 21:14:00 -07:00
 
 * Learn about the efforts of the **[Sister District Project](https://www.sisterdistrict.com/)**.  
 
-* Visit the Sister District Project's local **[Washington District 9 Chapter Facebook Page]**(https://www.facebook.com/groups/238429669950153/) 
+* Visit the Sister District Project's local **[Washington District 9 Chapter Facebook Page](https://www.facebook.com/groups/238429669950153/)** 
 

@@ -11,5 +11,5 @@ date: 2017-05-07 21:14:00 -07:00
 
 * Follow **[Manka Dhingra's campaign](http://www.electmanka.com/)** and/or **[make a donation](https://secure.actblue.com/contribute/page/sd_wa45?refcode=wa09)**
 
-* Follow **[Michelle Rylands' campaign](https://michellerylands.nationbuilder.com/)**  or [canvass for her](http://www.wa-democrats.org/summer-of-canvass).
+* Follow **[Michelle Rylands' campaign](https://michellerylands.nationbuilder.com/)**  or **[canvass for her](http://www.wa-democrats.org/summer-of-canvass)**
 
